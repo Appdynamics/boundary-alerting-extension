@@ -1,0 +1,10 @@
+<custom-actions>
+	<action>
+		<type>notify-boundary-of-event</type>
+		<executable>notify-boundary-of-event.bat</executable>
+	</action>
+	<action>
+		<type>notify-boundary-of-policy-violation</type>
+		<executable>notify-boundary-of-policy-violation.bat</executable>
+	</action>
+</custom-actions>
