@@ -1,4 +1,4 @@
-# AppDynamics Boundary Alerting Extension
+# AppDynamics Boundary - Alerting Extension
 
 ##Use Case
 
@@ -41,11 +41,11 @@ controller installation directory on the machine where the AppDynamics Controlle
 
 ###AppDynamics Alerts on Boundary Console
 
-![](images/boundary_01.png)
+![](http://appsphere.appdynamics.com/appdynamics/attachments/appdynamics/extensions/7/7/boundary_01.png)
 
 ###Cross-launch to Incident screen on AppDynamics Console
 
-![](images/boundary_02.png)
+![](http://appsphere.appdynamics.com/appdynamics/attachments/appdynamics/extensions/7/8/boundary_02.png)
 
 
 ##Contributing
