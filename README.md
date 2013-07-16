@@ -41,12 +41,11 @@ controller installation directory on the machine where the AppDynamics Controlle
 
 ###AppDynamics Alerts on Boundary Console
 
-![](http://appsphere.appdynamics.com/t5/image/serverpage/image-id/35iD582206491C7D094/image-size/original?v=mpbl-1&px=-1)
+![](http://appsphere.appdynamics.com/t5/image/serverpage/image-id/55i85918054BA470BBA/image-size/original?v=mpbl-1&px=-1)
 
 ###Cross-launch to Incident screen on AppDynamics Console
 
-![](http://appsphere.appdynamics.com/t5/image/serverpage/image-id/37i19FBF6D0E8689A3B/image-size/original?v=mpbl-1&px=-1g)
-
+![](http://appsphere.appdynamics.com/t5/image/serverpage/image-id/57iCD95B0C93001BE56/image-size/original?v=mpbl-1&px=-1)
 
 ##Contributing
 
