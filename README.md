@@ -2,21 +2,13 @@
 
 ##Use Case
 
-While AppDynamics offers an inside-out visibility into your
-applications, Boundary 
-([http://www.boundary.com](http://www.boundary.com)) offers an
-outside-in perspective. Boundary is a modern IT operations management application that operates at the
-TCP/IP packet layer and provides a network-centric view of distributed applications.
+While AppDynamics offers an inside-out visibility into your applications, Boundary ([http://www.boundary.com](http://www.boundary.com)) offers an outside-in perspective. Boundary is a modern IT operations management application that operates at the TCP/IP packet layer and provides a network-centric view of distributed applications.
 
-With this integration extension, AppDynamics Pro events related to slow transactions or policy violations 
-are relayed to Boundary and depicted as
-annotations on the Boundary graphs. A Boundary user can click on the URL
-in the annotation and it will launch the AppDynamics UI in context
-so you can drilldown into that incident in AppDynamics.
+With this integration extension, AppDynamics Pro events related to slow transactions or policy violations are relayed to Boundary and depicted as annotations on the Boundary graphs. A Boundary user can click on the URL in the annotation and it will launch the AppDynamics UI in context so you can drilldown into that incident in AppDynamics.
 
 ##Installation 
 
-1.  Download the appropriate tar.gz or zip file and extract it.
+1.  Download the zip file and extract it.
 2.  For on-premise Controllers: Copy the contents of either boundary\_linux or boundary_windows, depending on the system type, to your 
 controller installation directory on the machine where the AppDynamics Controller is running.
    
@@ -29,8 +21,8 @@ controller installation directory on the machine where the AppDynamics Controlle
 # AppDynamics->Boundary notification client configuration file
 #------------------------------------------------------------- 
 # API Host for Boundary boundary_host=api.boundary.com 
-# Organization id org_id=L3gI1Wuw6qDgikcRH01Vhe7GtY9 
-# API key api_key=JQRBkA0G1Bss31i8foi14BiWi7W 
+# Organization id org_id=xxxxxxxxxxxxxxx 
+# API key api_key=xxxxxxxxxxxxxxx
 ```
 
 2. Use the AppDynamics Controller screen to configure the custom
@@ -47,11 +39,15 @@ controller installation directory on the machine where the AppDynamics Controlle
 
 ![](http://appsphere.appdynamics.com/t5/image/serverpage/image-id/57iCD95B0C93001BE56/image-size/original?v=mpbl-1&px=-1)
 
+
 ##Contributing
 
-Always feel free to fork and contribute any changes directly via GitHub.
+Always feel free to fork and contribute any changes directly via [GitHub](https://github.com/Appdynamics/boundary-alerting-extension).
 
+##Community
+
+Find out more in the [AppSphere](http://appsphere.appdynamics.com/t5/Extensions/Boundary-Alerting-Extension/idi-p/763) community.
 
 ##Support
 
-For any support questions, please contact ace@appdynamics.com.
+For any questions or feature request, please contact [AppDynamics Center of Excellence](mailto://ace-request@appdynamics.com).
